@@ -47,16 +47,16 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 To set up Maze Explorer locally, follow these steps:
 
 - Clone the repository: git clone (https://github.com/Serahnams/Maze_project.git)
-- Navigate to the project directory: ** `cd maze-explorer` **
-- Open ** `index.html` ** in your preferred web browser.
+- Navigate to the project directory: **`cd maze-explorer`**
+- Open **`index.html`** in your preferred web browser.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, follow these guidelines:
 
 - Fork the repository.
-- Create a new branch: ** `git checkout -b feature/new-feature.` **
-- Make changes and commit: ** `git commit -m 'Add new feature'. **
-- Push to the branch: ** `git push origin feature/new-feature. **
+- Create a new branch: **`git checkout -b feature/new-feature.`**
+- Make changes and commit: **`git commit -m 'Add new feature.'**
+- Push to the branch: **`git push origin feature/new-feature.`**
 - Submit a pull request.
 
 ## Licensing
