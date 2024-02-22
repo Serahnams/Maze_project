@@ -1,5 +1,6 @@
 ## 3D MAZE
 
+![7e322c5b857225f95fcf63795f5d68f954ab4474](https://github.com/Serahnams/Maze_project/assets/128810177/e548e5b9-429c-411c-a82a-b5b8e578f938)
 
 Similar to Wolfenstein or Doom the Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!.
 It runs on Mac OS X and Linux/Ubuntu. The game uses the technique raycasting to create the apparent 3D nature of the maze.
