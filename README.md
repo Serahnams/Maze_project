@@ -45,10 +45,10 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 
 ## Usage
 To set up Maze Explorer locally, follow these steps:
-```groovy
-Clone the repository: git clone https://github.com/Serahnams/Maze_project.git
-Navigate to the project directory: cd maze-explorer
-Open index.html in your preferred web browser.
+
+- Clone the repository: git clone (https://github.com/Serahnams/Maze_project.git)
+- Navigate to the project directory: cd maze-explorer
+- Open index.html in your preferred web browser.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, follow these guidelines:
