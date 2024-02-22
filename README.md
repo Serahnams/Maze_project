@@ -54,7 +54,7 @@ To set up Maze Explorer locally, follow these steps:
 Contributions are welcome! If you'd like to contribute, follow these guidelines:
 
 - Fork the repository.
-- Create a new branch: git checkout -b feature/new-feature.
+- Create a new branch: [git checkout -b feature/new-feature.]
 - Make changes and commit: git commit -m 'Add new feature'.
 - Push to the branch: git push origin feature/new-feature.
 - Submit a pull request.
